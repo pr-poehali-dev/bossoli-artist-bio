@@ -25,7 +25,7 @@ export const sevastopolArtworks: Artwork[] = [
     id: 3,
     title: "Панорама Севастополя",
     year: "1842",
-    imageUrl: "/placeholder.svg",
+    imageUrl: "https://cdn.poehali.dev/files/000f18bd-9878-4b6e-8ef4-fb65abdbb2ab.jpg",
     description: "Общий вид на город и бухту, демонстрирующий архитектуру и топографию Севастополя в середине XIX века."
   },
   {
