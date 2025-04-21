@@ -11,7 +11,7 @@ export const sevastopolArtworks: Artwork[] = [
     id: 1,
     title: "Вид на Севастопольскую бухту",
     year: "1840-1842",
-    imageUrl: "/placeholder.svg",
+    imageUrl: "https://cdn.poehali.dev/files/f6642e4f-2dd1-4eb9-84c9-8d12fc8080bb.jpg",
     description: "Панорамный вид на Севастопольскую бухту с высоты птичьего полета, изображающий многочисленные корабли Черноморского флота."
   },
   {
